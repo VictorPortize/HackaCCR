@@ -38,7 +38,8 @@ export const Label = styled.Text`
 export const Input = styled.TextInput`
     width : 85%;
     margin-top : 5px;
-    height : ${ height * 0.06 }px;
+    height : ${ height * 0.07 }px;
+    padding : 10px;
     padding-left : 15px;
     border-radius : ${ height * 0.03 }px;
     background-color : white;
